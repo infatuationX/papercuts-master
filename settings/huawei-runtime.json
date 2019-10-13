@@ -1,0 +1,21 @@
+{
+  "appType": "fastgame",
+  "certificatePath": "",
+  "deviceOrientation": "portrait",
+  "disabledMode": "disabled is-disabled",
+  "fullScreen": true,
+  "icon": "",
+  "logLevel": "log",
+  "manifestPath": "",
+  "minPlatformVersion": "",
+  "name": "",
+  "npmPath": "",
+  "package": "",
+  "privatePath": "",
+  "runRelease": false,
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "versionCode": "",
+  "versionName": ""
+}
